@@ -22,8 +22,6 @@
 
 ### 🚀 Research & Agent Projects
 
-<table align="center">
-  <tr>
     <td width="100%" valign="top">
       <h4>🔬 AI for Science</h4>
       <ul>
@@ -31,8 +29,6 @@
         <li><b>Decision Making:</b> Applying <i>Game Theory</i> to single agent desicion or multi-agents collaboration.</li>
       </ul>
     </td>
-  </tr>
-</table>
 
 ---
 
