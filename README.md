@@ -24,20 +24,11 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Agent Construction & Optimization</h4>
-      <ul>
-        <li><b>Graduation Project:</b> Building & optimizing intelligent agents for <i>Extreme Mechanics</i> scenarios.</li>
-        <li><b>TextGrad & AFlow:</b> Exploring iterative optimization techniques for LLM reasoning.</li>
-        <li><b>Benchmark Reproduction:</b> Reproducing experiments on <i>HumanEval</i> & <i>MBPP</i> using MetaGPT.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h4>🔬 AI for Science</h4>
       <ul>
-        <li><b>CDEM Simulation:</b> Automating simulation script generation via <i>LangChain</i> agents.</li>
-        <li><b>Molecular Discovery:</b> Interested in drug design and protein interaction modeling.</li>
-        <li><b>Decision Making:</b> Applying <i>Game Theory</i> to multi-agent collaboration.</li>
+        <li><b>Scientific Platform Application:</b> Automating research via agents.</li>
+        <li><b>Decision Making:</b> Applying <i>Game Theory</i> to single agent desicion or multi-agents collaboration.</li>
       </ul>
     </td>
   </tr>
