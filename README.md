@@ -21,6 +21,7 @@
 ---
 
 ### 🚀 Research & Agent Projects
+
 <table>
     <td width="100%" valign="top">
       <h4>🔬 AI for Science</h4>
@@ -30,6 +31,7 @@
       </ul>
     </td>
 </table>  
+
 ---
 
 ### 📬 Connect with me
